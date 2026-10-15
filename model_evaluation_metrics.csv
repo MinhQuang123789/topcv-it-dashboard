@@ -1,0 +1,3 @@
+﻿Mo hinh,MAE (Tin/Ngay),RMSE (Tin/Ngay)
+1. Baseline (Moving Average),110.38,114.56
+2. Exponential Smoothing (SES),101.03,105.58
